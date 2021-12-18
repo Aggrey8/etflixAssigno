@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Serie
+comment1.params=name
+comment1.target=Serie(java.lang.String)
+comment10.params=
+comment10.target=int\ getDislikes()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=java.util.ArrayList\ getSeasons()
+comment5.params=season
+comment5.target=void\ addSeason(Season)
+comment6.params=
+comment6.target=java.lang.Long\ getSeriesRuntimeInSeconds()
+comment7.params=
+comment7.target=java.lang.String\ getSeriesRuntimeFormatted()
+comment8.params=
+comment8.target=Episode\ getMostLikedEpisode()
+comment9.params=
+comment9.target=Episode\ getMostDislikedEpisode()
+numComments=11

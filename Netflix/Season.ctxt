@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Season
+comment1.params=number
+comment1.target=Season(int)
+comment2.params=
+comment2.target=int\ getNumber()
+comment3.params=
+comment3.target=java.util.ArrayList\ getEpisodes()
+comment4.params=number
+comment4.target=void\ setNumber(int)
+comment5.params=episode
+comment5.target=void\ addEpisode(Episode)
+comment6.params=
+comment6.target=long\ getSeasonRuntimeInSeconds()
+comment7.params=
+comment7.target=java.lang.String\ getSeasonRuntimeFormatted()
+comment8.params=type
+comment8.target=Episode\ getMostLikedEpisode(java.lang.Boolean)
+comment9.params=
+comment9.target=Episode\ getMostDislikedEpisode()
+numComments=10
